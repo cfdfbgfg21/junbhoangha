@@ -1,0 +1,5 @@
+{
+  "name": "Acme Services Dashboard",
+  "description": "A modern web application for managing user services, payments, and account balances. It features a personalized dashboard, a simulated account top-up system, and comprehensive service management.",
+  "requestFramePermissions": []
+}
